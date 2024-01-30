@@ -1,0 +1,26 @@
+.courseContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.courseTitle{
+    text-align: center;
+}
+.courseItem{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+.card{
+    width: 350px;
+    border: 1px solid white;
+    padding: 30px;
+    border-radius: 30px;
+    height: 470px;
+}
+.card-price{
+    color: rgb(244, 200, 119);
+    font-style: italic;
+}

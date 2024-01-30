@@ -1,0 +1,40 @@
+{
+    "courses":[
+        {
+          "id": 1,
+          "content": "Python Programlama Temelleri: Bu kurs ile dünyanın en popüler programlama dillerinden biri olan Python'ı öğreneceksiniz. Python, basit, güçlü ve çok yönlü bir dildir. Web geliştirme, veri bilimi, yapay zeka, oyun programlama gibi pek çok alanda kullanılabilir. Bu kurs, Python'ın temel sözdizimi, veri tipleri, kontrol yapıları, fonksiyonlar, modüller, dosya işlemleri, hata yakalama gibi konularını kapsamaktadır.",
+          "title": "Python ile Kodlama Öğrenin",
+          "price": 99.99
+        },
+        {
+          "id": 2,
+          "content": "Web Tasarımı ve Geliştirme: Bu kurs ile web siteleri yapmanın temellerini öğreneceksiniz. Web siteleri, internet üzerinde yayınlanan ve tarayıcılar aracılığıyla erişilen sayfalardır. Web siteleri, HTML, CSS ve JavaScript gibi teknolojiler kullanılarak oluşturulur. Bu kurs, HTML'in yapısı, etiketleri, öznitelikleri, CSS'in seçicileri, özellikleri, kutu modeli, konumlandırma, JavaScript'in değişkenleri, operatörleri, döngüleri, koşulları, olayları, DOM manipülasyonu gibi konularını kapsamaktadır.",
+          "title": "HTML, CSS ve JavaScript ile Web Siteleri Yapın",
+          "price": 149.99
+        },
+        {
+          "id": 3,
+          "content": "Veri Bilimi ve Makine Öğrenmesi: Bu kurs ile veri analizi yapmanın temellerini öğreneceksiniz. Veri bilimi, büyük ve karmaşık veri kümelerinden anlamlı bilgiler çıkarmak için kullanılan bir disiplindir. Makine öğrenmesi, verilerden öğrenen ve tahminlerde bulunan algoritmalar geliştirmek için kullanılan bir alt disiplindir. Bu kurs, Pandas'ın veri çerçeveleri, indeksleme, gruplama, birleştirme, Numpy'ın dizileri, işlemleri, yayınlanması, Scikit-learn'in sınıflandırma, regresyon, kümeleme, boyut indirgeme gibi konularını kapsamaktadır.",
+          "title": "Pandas, Numpy ve Scikit-learn ile Veri Analizi Yapın",
+          "price": 199.99
+        },
+        {
+          "id": 4,
+          "content": "Mobil Uygulama Geliştirme: Bu kurs ile mobil uygulama yapmanın temellerini öğreneceksiniz. Mobil uygulamalar, akıllı telefonlar, tabletler gibi mobil cihazlarda çalışan uygulamalardır. Mobil uygulamalar, farklı platformlara uyum sağlamak için farklı teknolojiler kullanılarak geliştirilebilir. Bu kurs, Flutter'ın widget'ları, durum yönetimi, navigasyon, animasyon, Dart'ın sınıfları, nesneleri, kalıtımı, polimorfizmi, async/await gibi konularını kapsamaktadır.",
+          "title": "Flutter ve Dart ile iOS ve Android Uygulamaları Yapın",
+          "price": 249.99
+        },
+        {
+          "id": 5,
+          "content": "Oyun Programlama ve Tasarımı: Bu kurs ile oyun yapmanın temellerini öğreneceksiniz. Oyunlar, eğlence, eğitim, sanat gibi amaçlarla oluşturulan interaktif medya ürünleridir. Oyunlar, farklı türlerde, grafiklerde, mekaniklerde olabilir. Bu kurs, Unity'nin editörü, sahne, oyun nesneleri, bileşenler, C#'ın değişkenleri, operatörleri, döngüleri, koşulları, fonksiyonları, sınıfları, nesneleri, kalıtımı, polimorfizmi gibi konularını kapsamaktadır.",
+          "title": "Unity ve C# ile 2D ve 3D Oyunlar Yapın",
+          "price": 299.99
+        },
+        {
+          "id": 6,
+          "content": "Yapay Zeka ve Derin Öğrenme: Bu kurs ile yapay zeka yapmanın temellerini öğreneceksiniz. Yapay zeka, insan zekasını taklit etmeye çalışan bir bilim dalıdır. Derin öğrenme, yapay zekanın bir alt dalı olup, çok katmanlı yapay sinir ağları kullanarak verilerden öğrenmeyi sağlar. Bu kurs, Tensorflow'un temel kavramları, değişkenleri, sabitleri, işlemleri, yer tutucuları, Keras'ın modelleri, katmanları, aktivasyon fonksiyonları, kayıp fonksiyonları, optimizasyon algoritmaları gibi konularını kapsamaktadır.",
+          "title": "Tensorflow ve Keras ile Sinir Ağları Oluşturun",
+          "price": 349.99
+        }
+     ]  
+}
